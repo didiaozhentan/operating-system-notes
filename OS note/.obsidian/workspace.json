@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章 计算机系统概述/1.4 操作系统的层次结构.md",
+                "file": "第一章 计算机系统概述/1.5 操作系统引导 & 1.6 虚拟机.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 操作系统的层次结构"
+              "title": "1.5 操作系统引导 & 1.6 虚拟机"
             }
           },
           {
@@ -186,11 +186,12 @@
   },
   "active": "fb6be4eecf91abfe",
   "lastOpenFiles": [
+    "第一章 计算机系统概述/1.4 操作系统的层次结构.md",
+    "第一章 计算机系统概述/1.5 操作系统引导 & 1.6 虚拟机.md",
     "000附件/Pasted image 20250404152648.png",
     "000附件/Pasted image 20250404151921.png",
     "000附件/Pasted image 20250404151854.png",
     "第一章 计算机系统概述/1.3 操作系统的运行环境.md",
-    "第一章 计算机系统概述/1.4 操作系统的层次结构.md",
     "000附件/Pasted image 20250404151659.png",
     "Pasted image 20250404151536.png",
     "000附件",
