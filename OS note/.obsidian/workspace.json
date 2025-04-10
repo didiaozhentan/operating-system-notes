@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1a3718f7a4af2001",
@@ -171,6 +172,7 @@
   },
   "active": "beedb5fc85c6bb39",
   "lastOpenFiles": [
+    "000附件/Pasted image 20250410093544.png",
     "conflict-files-obsidian-git.md",
     "第二章 进程与线程/2.1 进程与线程.md",
     "~$语言查询数据库实验报告.docx",
