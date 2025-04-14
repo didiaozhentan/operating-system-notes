@@ -150,8 +150,19 @@
               "icon": "lucide-list",
               "title": "1.1 操作系统的基本概念 的大纲"
             }
+          },
+          {
+            "id": "484aaff86c494ce6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,11 +177,15 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-spaced-repetition:复习卡片": false
     }
   },
   "active": "bdc366de121d1536",
   "lastOpenFiles": [
+    "第一章 计算机系统概述/1.1 操作系统的基本概念.md",
+    "第一章 计算机系统概述/选择题.md",
+    "第一章 计算机系统概述/1.5 操作系统引导 & 1.6 虚拟机.md",
     "邹宇涵-自然语言查询数据库实验报告.docx",
     "创建链接.md",
     "md语法笔记.md",
@@ -194,15 +209,12 @@
     "2025-04-10.md",
     "未命名.canvas",
     "~$语言查询数据库实验报告.docx",
-    "第一章 计算机系统概述/1.5 操作系统引导 & 1.6 虚拟机.md",
     "第二章 进程与线程",
     "第一章 计算机系统概述/1.4 操作系统的层次结构.md",
     "第一章 计算机系统概述/1.3 操作系统的运行环境.md",
     "第一章 计算机系统概述/1.2 操作系统的发展历程.md",
-    "第一章 计算机系统概述/1.1 操作系统的基本概念.md",
     "000附件",
     "第一章 计算机系统概述/未命名",
-    "第一章 计算机系统概述/选择题.md",
     "未命名.md",
     "第一章 计算机系统概述",
     "md语法笔记 1.md"

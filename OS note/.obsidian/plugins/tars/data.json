@@ -4,7 +4,7 @@
   },
   "providers": [
     {
-      "tag": "DeepSeek",
+      "tag": "ds",
       "vendor": "DeepSeek",
       "options": {
         "apiKey": "sk-a9294f0be87d46369b47b49a83c9b72c",
@@ -37,7 +37,7 @@
   "answerDelayInMilliseconds": 2000,
   "confirmRegenerate": true,
   "enableTagSuggest": true,
-  "tagSuggestMaxLineLength": 20,
+  "tagSuggestMaxLineLength": 22,
   "enableExportToJSONL": false,
   "enableReplaceTag": false
 }
