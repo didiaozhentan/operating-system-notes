@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章 计算机系统概述/选择题.md",
+                "file": "第一章 计算机系统概述/错题本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "选择题"
+              "title": "错题本"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "1a3718f7a4af2001",
@@ -193,9 +192,18 @@
       "media-extended:Open media": false
     }
   },
-  "active": "484aaff86c494ce6",
+  "active": "bdc366de121d1536",
   "lastOpenFiles": [
-    "第一章 计算机系统概述/选择题.md",
+    "000附件/Pasted image 20250415125706.png",
+    "000附件/Pasted image 20250415125658.png",
+    "000附件/Pasted image 20250415125504.png",
+    "000附件/Pasted image 20250415125458.png",
+    "000附件/Pasted image 20250415125446.png",
+    "000附件/Pasted image 20250415125423.png",
+    "000附件/Pasted image 20250415125413.png",
+    "000附件/Pasted image 20250415125334.png",
+    "000附件/Pasted image 20250415125245.png",
+    "第一章 计算机系统概述/错题本.md",
     "第一章 计算机系统概述/1.1 操作系统的基本概念.md",
     "第一章 计算机系统概述/1.4 操作系统的层次结构.md",
     "第一章 计算机系统概述/1.5 操作系统引导 & 1.6 虚拟机.md",
@@ -207,16 +215,8 @@
     "欢迎.md",
     "000附件/Pasted image 20250412212457.png",
     "000附件/Pasted image 20250412211634.png",
-    "000附件/Pasted image 20250412211424.png",
-    "000附件/Pasted image 20250412204648.png",
-    "000附件/Pasted image 20250412195144.png",
-    "000附件/Pasted image 20250412195029.png",
-    "000附件/Pasted image 20250412194918.png",
     "第二章 进程与线程/2.2 CPU调度.md",
     "conflict-files-obsidian-git.md",
-    "000附件/Pasted image 20250411222346.png",
-    "000附件/Pasted image 20250411103705.png",
-    "000附件/Pasted image 20250411102420.png",
     "~WRL4041.tmp",
     "~WRD4021.tmp",
     "2025-04-10.md",
