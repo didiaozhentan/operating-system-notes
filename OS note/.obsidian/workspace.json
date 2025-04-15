@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章 计算机系统概述/选择题.md",
+                "file": "第二章 进程与线程/2.5 选择题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "选择题"
+              "title": "2.5 选择题"
             }
           }
         ]
@@ -195,18 +195,19 @@
   },
   "active": "bdc366de121d1536",
   "lastOpenFiles": [
-    "000附件/Pasted image 20250415133024.png",
-    "000附件/Pasted image 20250415133009.png",
-    "000附件/Pasted image 20250415132958.png",
-    "000附件/Pasted image 20250415132850.png",
-    "000附件/Pasted image 20250415132841.png",
-    "000附件/Pasted image 20250415132830.png",
-    "000附件/Pasted image 20250415132822.png",
-    "000附件/Pasted image 20250415132731.png",
-    "000附件/Pasted image 20250415132722.png",
-    "000附件/Pasted image 20250415132629.png",
-    "000附件/Pasted image 20250415132620.png",
-    "第一章 计算机系统概述/选择题.md",
+    "第二章 进程与线程/2.4 死锁.md",
+    "第二章 进程与线程/2.5 选择题.md",
+    "第一章 计算机系统概述/1.6 选择题.md",
+    "000附件/Pasted image 20250415134732.png",
+    "000附件/Pasted image 20250415134724.png",
+    "000附件/Pasted image 20250415134716.png",
+    "000附件/Pasted image 20250415134707.png",
+    "000附件/Pasted image 20250415134658.png",
+    "000附件/Pasted image 20250415134634.png",
+    "000附件/Pasted image 20250415134623.png",
+    "000附件/Pasted image 20250415134420.png",
+    "000附件/Pasted image 20250415134408.png",
+    "000附件/Pasted image 20250415134332.png",
     "第一章 计算机系统概述/1.1 操作系统的基本概念.md",
     "第一章 计算机系统概述/1.4 操作系统的层次结构.md",
     "第一章 计算机系统概述/1.5 操作系统引导 & 1.6 虚拟机.md",
