@@ -281,11 +281,19 @@
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],
-  "customRegexes": [],
+  "customRegexes": [
+    {
+      "label": "清楚内容",
+      "find": "<[^>]*>",
+      "replace": "",
+      "flags": "gm",
+      "enabled": true
+    }
+  ],
   "commonStyles": {
     "aliasArrayStyle": "single-line",
     "tagArrayStyle": "single-line",
-    "minimumNumberOfDollarSignsToBeAMathBlock": 2,
+    "minimumNumberOfDollarSignsToBeAMathBlock": 3,
     "escapeCharacter": "\"",
     "removeUnnecessaryEscapeCharsForMultiLineArrays": false
   }
