@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "1a3718f7a4af2001",
@@ -172,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,15 +189,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-spaced-repetition:复习卡片": false
+      "obsidian-spaced-repetition:复习卡片": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "bdc366de121d1536",
+  "active": "484aaff86c494ce6",
   "lastOpenFiles": [
+    "第一章 计算机系统概述/选择题.md",
     "第一章 计算机系统概述/1.1 操作系统的基本概念.md",
     "第一章 计算机系统概述/1.4 操作系统的层次结构.md",
     "第一章 计算机系统概述/1.5 操作系统引导 & 1.6 虚拟机.md",
-    "第一章 计算机系统概述/选择题.md",
     "第二章 进程与线程/2.3 同步与互斥.md",
     "第二章 进程与线程/2.1 进程与线程.md",
     "邹宇涵-自然语言查询数据库实验报告.docx",
