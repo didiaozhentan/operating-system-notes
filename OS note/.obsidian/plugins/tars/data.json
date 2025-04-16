@@ -12,6 +12,16 @@
         "model": "deepseek-chat",
         "parameters": {}
       }
+    },
+    {
+      "tag": "aly",
+      "vendor": "DeepSeek",
+      "options": {
+        "apiKey": "sk-f8915a9deb2842b5af3cc1e659148ac2",
+        "baseURL": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        "model": "deepseek-reasoner",
+        "parameters": {}
+      }
     }
   ],
   "systemTags": [
@@ -37,7 +47,7 @@
   "answerDelayInMilliseconds": 2000,
   "confirmRegenerate": true,
   "enableTagSuggest": true,
-  "tagSuggestMaxLineLength": 22,
+  "tagSuggestMaxLineLength": 20,
   "enableExportToJSONL": false,
   "enableReplaceTag": false
 }
