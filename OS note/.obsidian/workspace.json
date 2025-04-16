@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "1a3718f7a4af2001",
@@ -193,7 +192,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "bdc366de121d1536",
+  "active": "484aaff86c494ce6",
   "lastOpenFiles": [
     "000附件/Pasted image 20250416114606.png",
     "000附件/Pasted image 20250416114445.png",
