@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第二章 进程与线程/1.md",
+                "file": "第二章 进程与线程/2.4 死锁.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "2.4 死锁"
             }
           }
         ]
