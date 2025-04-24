@@ -1,3 +1,5 @@
 {
-  "attachmentFolderPath": "000附件"
+  "attachmentFolderPath": "000附件",
+  "showLineNumber": false,
+  "readableLineLength": true
 }
