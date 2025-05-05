@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2.6 课后复习题"
             }
-          },
-          {
-            "id": "78d11e178d357f29",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
