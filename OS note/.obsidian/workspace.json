@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "1a3718f7a4af2001",
@@ -195,6 +194,9 @@
   },
   "active": "bdc366de121d1536",
   "lastOpenFiles": [
+    "000附件/Pasted image 20250505220022.png",
+    "000附件/Pasted image 20250505215832.png",
+    "000附件/Pasted image 20250505215715.png",
     "000附件/Pasted image 20250505213413.png",
     "000附件/Pasted image 20250505212209.png",
     "000附件/Pasted image 20250505212207.png",
@@ -219,9 +221,6 @@
     "000附件/Pasted image 20250419162529.png",
     "000附件/Pasted image 20250419162515.png",
     "000附件/Pasted image 20250419162505.png",
-    "000附件/Pasted image 20250419162442.png",
-    "000附件/Pasted image 20250419162433.png",
-    "000附件/Pasted image 20250419162410.png",
     "第二章 进程与线程/1.md",
     "邹宇涵-自然语言查询数据库实验报告.docx",
     "创建链接.md",
