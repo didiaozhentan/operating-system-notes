@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "1a3718f7a4af2001",
@@ -192,8 +193,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "484aaff86c494ce6",
+  "active": "bdc366de121d1536",
   "lastOpenFiles": [
+    "000附件/Pasted image 20250508142954.png",
+    "000附件/Pasted image 20250508142940.png",
+    "000附件/Pasted image 20250508141547.png",
     "000附件/Pasted image 20250505220022.png",
     "000附件/Pasted image 20250505215832.png",
     "000附件/Pasted image 20250505215715.png",
@@ -218,9 +222,6 @@
     "第一章 计算机系统概述/1.5 操作系统引导 & 1.6 虚拟机.md",
     "第一章 计算机系统概述/1.6 选择题.md",
     "000附件/Pasted image 20250419162540.png",
-    "000附件/Pasted image 20250419162529.png",
-    "000附件/Pasted image 20250419162515.png",
-    "000附件/Pasted image 20250419162505.png",
     "第二章 进程与线程/1.md",
     "邹宇涵-自然语言查询数据库实验报告.docx",
     "创建链接.md",
