@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "切换",
+                "query": "全局",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "1a3718f7a4af2001",
@@ -193,7 +193,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "bdc366de121d1536",
+  "active": "38a225e8606b3649",
   "lastOpenFiles": [
     "第三章 内存管理/3.1 内存管理概念.md",
     "第三章 内存管理/3.2 虚拟内存管理.md",
