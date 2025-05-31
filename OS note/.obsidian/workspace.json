@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第四章 文件管理/4.1 文件系统基础.md",
+                "file": "大数据期末.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 文件系统基础"
+              "title": "大数据期末"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "数据"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,14 +207,16 @@
       "media-extended:Open media": false
     }
   },
-  "active": "26a968142270cfdd",
+  "active": "bdc366de121d1536",
   "lastOpenFiles": [
+    "000附件/Pasted image 20250531205935.png",
+    "000附件/Pasted image 20250531205923.png",
     "1.md",
+    "第四章 文件管理/4.1 文件系统基础.md",
     "数据.md",
     "大数据期末.md",
     "000附件/Pasted image 20250531190118.png",
     "000附件/Pasted image 20250531185549.png",
-    "第四章 文件管理/4.1 文件系统基础.md",
     "11.md",
     "000附件/Pasted image 20250511153526.png",
     "000附件/Pasted image 20250511152342.png",
@@ -227,7 +228,6 @@
     "000附件/Pasted image 20250508150536.png",
     "000附件/Pasted image 20250508150342.png",
     "000附件/Pasted image 20250508145602.png",
-    "000附件/Pasted image 20250508145544.png",
     "第一章 计算机系统概述/1.1 操作系统的基本概念.md",
     "第二章 进程与线程/2.6 课后复习题.md",
     "第三章 内存管理",
@@ -250,7 +250,6 @@
     "conflict-files-obsidian-git.md",
     "~WRL4041.tmp",
     "~WRD4021.tmp",
-    "2025-04-10.md",
     "未命名.canvas",
     "~$语言查询数据库实验报告.docx",
     "第二章 进程与线程",
