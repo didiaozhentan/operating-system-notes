@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#db/4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "484aaff86c494ce6",
+  "active": "38a225e8606b3649",
   "lastOpenFiles": [
     "1.md",
     "选择题.md",
