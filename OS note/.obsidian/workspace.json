@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "选择题.md",
+                "file": "大数据期末.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "选择题"
+              "title": "大数据期末"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#db/4",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,11 +206,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "38a225e8606b3649",
+  "active": "bdc366de121d1536",
   "lastOpenFiles": [
-    "1.md",
-    "选择题.md",
     "数据.md",
+    "选择题.md",
+    "1.md",
     "大数据期末.md",
     "第二章 进程与线程/2.5 选择题.md",
     "第一章 计算机系统概述/1.6 选择题.md",
