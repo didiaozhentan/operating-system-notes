@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "1a3718f7a4af2001",
@@ -206,8 +207,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "484aaff86c494ce6",
+  "active": "bdc366de121d1536",
   "lastOpenFiles": [
+    "000附件/Pasted image 20250603123222.png",
     "数据.md",
     "选择题.md",
     "1.md",
@@ -246,7 +248,6 @@
     "创建链接.md",
     "md语法笔记.md",
     "欢迎.md",
-    "conflict-files-obsidian-git.md",
     "~WRL4041.tmp",
     "~WRD4021.tmp",
     "未命名.canvas",
