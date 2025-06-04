@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据期末.md",
-                "mode": "preview",
+                "file": "选择题.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大数据期末"
+              "title": "选择题"
             }
           },
           {
@@ -206,10 +206,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "484aaff86c494ce6",
+  "active": "bdc366de121d1536",
   "lastOpenFiles": [
-    "1.md",
     "大数据期末.md",
+    "1.md",
     "选择题.md",
     "数据.md",
     "000附件/Pasted image 20250603123222.png",
