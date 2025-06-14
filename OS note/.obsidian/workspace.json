@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据期末.md",
+                "file": "数据.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大数据期末"
+              "title": "数据"
             }
           },
           {
@@ -208,11 +208,12 @@
   },
   "active": "bdc366de121d1536",
   "lastOpenFiles": [
+    "000附件/Pasted image 20250614212124.png",
+    "大数据期末.md",
     "数据.md",
     "第二章 进程与线程/2.3 同步与互斥.md",
     "第二章 进程与线程/2.4 死锁.md",
     "选择题.md",
-    "大数据期末.md",
     "1.md",
     "000附件/Pasted image 20250603123222.png",
     "第二章 进程与线程/2.5 选择题.md",
